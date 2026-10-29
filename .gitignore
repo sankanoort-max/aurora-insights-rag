@@ -4,5 +4,4 @@ __pycache__/
 *.py[cod]
 .env
 chroma_db/
-data/*.pdf
 .streamlit/secrets.toml
