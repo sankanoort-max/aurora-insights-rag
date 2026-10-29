@@ -2,3 +2,5 @@ streamlit
 pymupdf
 ollama
 chromadb
+
+
