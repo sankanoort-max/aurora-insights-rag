@@ -1,6 +1,5 @@
+
 streamlit
 pymupdf
-ollama
 chromadb
-
-
+openai
